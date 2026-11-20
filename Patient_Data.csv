@@ -1,0 +1,11 @@
+"Patient_ID","Age","Sex","Treatment","Baseline_Weight","Week12_Weight","Weight_change"
+101,25,"Female","Drug A",70,67,-3
+102,32,"Male","Drug B",82,78,-4
+103,45,"Female","Drug A",65,63,-2
+104,38,"Male","Drug B",90,86,-4
+105,29,"Female","Drug A",68,65,-3
+106,51,"Male","Drug B",85,81,-4
+107,42,"Female","Drug A",72,69,-3
+108,35,"Male","Drug B",88,84,-4
+109,48,"Female","Drug A",75,72,-3
+110,30,"Male","Drug B",80,77,-3
